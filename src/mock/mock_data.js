@@ -45,7 +45,8 @@ export const mockData = {
           "id": "site-1754530690803",
           "name": "anyrouter",
           "url": "https://anyrouter.top/",
-          "description": "claude-code免费api，每天签到可送25$"
+          "description": "claude API，每天签到可送25$",
+          "icon": "https://anyrouter.top/logo.png"
         }
       ]
     },
