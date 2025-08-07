@@ -40,6 +40,12 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1754530690803",
+          "name": "anyrouter",
+          "url": "https://anyrouter.top/",
+          "description": "claude-code免费api，每天签到可送25$"
         }
       ]
     },
