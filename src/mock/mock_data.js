@@ -46,7 +46,7 @@ export const mockData = {
           "name": "anyrouter",
           "url": "https://anyrouter.top/",
           "description": "claude API，每天签到可送25$",
-          "icon": "https://anyrouter.top/logo.png"
+          "icon": "/sitelogo/anyrouter.png"
         }
       ]
     },
